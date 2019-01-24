@@ -4,11 +4,10 @@ This repo consists of all the resources (Notebooks, Slides) used for "AI powered
 
 Topics Covered
 
-1. Deep Learning - Motivation
+1. Deep Learning - Introduction and basic concepts
 2. Perceptron, Neural Network and Multi Layer Perceptron (MLP)
-3. Model building process
-4. Convolutional Neural Network (CNN)
-5. Introduction to Apache MXNet
-6. Introduction to Amazon SageMaker
-7. Lab - Handwritten digit recognition, Facial Emotion Recognition, VGG-13, Transfer Learning (Using ImageNet pre-trained weights)
-8. MXNet Model Server - Serving deep learning models in production
+3. Convolutional Neural Network (CNN)
+4. Introduction to Apache MXNet
+5. Introduction to Amazon SageMaker
+6. Lab - Handwritten digit recognition, Facial Emotion Recognition, VGG-13, Transfer Learning (Using ImageNet pre-trained weights)
+7. MXNet Model Server - Serving deep learning models in production
