@@ -1,7 +1,5 @@
 # QWIKLab Instructions
 
-**<<<< This workshop is now complete and QWIKLab setup is not active anymore!! >>>>>**
-
 Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache MXNet lab sessions.
 
 1.	Go to [https://events-aws.qwiklabs.com/](https://events-aws.qwiklabs.com/) and create an account.
@@ -14,10 +12,10 @@ Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache
     ![Qwiklabs Sage Maker](./lab/assets/qwik_notebook.png)
 
 5. We will download the lab material to use on the notebook, start a new terminal session on SageMaker.
-    ![Qwiklabs Sage Maker Terminal](./assets/qwik_lab.png)
+    ![Qwiklabs Sage Maker Terminal](./lab/assets/qwik_lab.png)
 
 6. Open a terminal from the Launcher
-    ![Qwiklabs Terminal](./assets/qwik_terminal.png)
+    ![Qwiklabs Terminal](./lab/assets/qwik_terminal.png)
 
 7. Clone the github repo recursively – it contains an assortment of material used in this workshop.
     ```
@@ -26,6 +24,6 @@ Welcome to Apache MXNet Bootcamp. We will use Amazon SageMaker to run the Apache
     ```
 
 8. 8.	To access the exercises, go to mxnet-workshop-gaic/lab directory. Choose conda_mxnet_p36 environment as the Kernel when executing a notebook. 
-![Qwiklabs Sage Maker Conda Env](./assets/qwik_kernel.png)
+![Qwiklabs Sage Maker Conda Env](./lab/assets/qwik_kernel.png)
 
 You are all set! Let's get started...
